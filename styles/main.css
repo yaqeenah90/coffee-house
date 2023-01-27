@@ -1,0 +1,19 @@
+/*.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: dotted;
+    justify-content: space-evenly;
+    margin: 0.5em;
+    text-align: center;
+}*/
+
+.list {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+border: 1px dotted black;
+justify-content: space-evenly;
+
+
+}
